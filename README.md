@@ -1,1 +1,1 @@
-# Mobilya-Sat-Sitesi
+# kurçekmeuygulaması
